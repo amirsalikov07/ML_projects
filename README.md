@@ -6,18 +6,6 @@
 
 Here are the completed practical assignments on Machine Learning and Deep Learning.
 
-Machine Learning:
-k-Nearest Neighbors (k-NN)
-Linear regression and classification
-Data preprocessing
-Support Vector Machine (SVM)
-Decision trees
-Random forest
-Gradient boosting
-Clustering
+Machine Learning: k-Nearest Neighbors (k-NN), Linear regression and classification, Data preprocessing, SVM, Decision trees, Random forest, Gradient boosting, Clustering
 
-Deep Learning:
-Fully connected neural networks
-Convolutional neural networks (CNN)
-Semantic segmentation
-Named Entity Recognition (NER)
+Deep Learning: Fully connected neural networks, Convolutional neural networks (CNN), Semantic segmentation, Named Entity Recognition (NER)
